@@ -15,13 +15,13 @@
 **首先先来一个svg的例子进行代码分析：**
 
 ```xml
-	<?xml version="1.0" standalone="no"?>
+    <?xml version="1.0" standalone="no"?>
     <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
     <svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
     	<circle cx="100" cy="50" r="40" stroke="black" stroke-width="2" fill="red"/>
-	</svg>
+    </svg>
 
 ```
 `保存为.svg格式的文件。用浏览器打开，就会看到一个红色的圆圈，边框是黑色的。`
